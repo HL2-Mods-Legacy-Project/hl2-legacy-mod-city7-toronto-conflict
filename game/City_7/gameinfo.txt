@@ -15,6 +15,7 @@
 		SearchPaths
 		{
 			Game	|gameinfo_path|.
+			Game	hl2_2006
 			Game	hl2
 		}
 	}
